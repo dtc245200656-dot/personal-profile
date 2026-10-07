@@ -1,1 +1,7 @@
 body { font-family: Arial; }
+
+section {
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 20px;
+}
